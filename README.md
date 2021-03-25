@@ -70,6 +70,6 @@
         "saleprice": "1,590,000đ",
         "personorder": "160 người đặt",
         "image": "https://nhansamthinhphat.com/uploads/product/15-11-2018/nam-linh-chi-han-quoc-thai-lat-bich-500g.jpg"
-    },
+    }
    
 ]
