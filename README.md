@@ -2,7 +2,7 @@
 "items":
 [
     {
-        "id": 1,"
+        "id": 1,
         "title": "(1kg) Linh chi Hàn Quốc cao cấp",
         "originalprice": "1,750,000đ",
         "saleprice": "1,590,000đ",
