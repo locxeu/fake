@@ -1,14 +1,7 @@
 {
 "items":
 [
-    {
-        "id": 1,
-        "title": "(1kg) Linh chi Hàn Quốc cao cấp",
-        "originalprice": "1,850,000đ",
-        "saleprice": "1,590,000đ",
-        "personorder": "160 người đặt",
-        "image": "https://nhansamthinhphat.com/uploads/product/15-11-2018/nam-linh-chi-han-quoc-thai-lat-bich-500g.jpg"
-    },
+    
    {
         "id": 2,
         "title": "Bộ dưỡng ẩm chống lão hóa Hera age away",
